@@ -7,7 +7,7 @@ export default function RootLayout() {
                 <Link to="/" className="logo">REACT sTOCK</Link>
                 <nav>
                     <Link to="/">Início</Link>
-                    <Link to="/items">Items</Link>
+                    <Link to="/items">Itens</Link>
                 </nav>
             </header>
             <div>
